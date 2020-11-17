@@ -1,6 +1,6 @@
-#EXERCISE1
+# EXERCISE1
 
-####Data structures used:
+#### Data structures used:
 
 **HashMap**
 
@@ -44,7 +44,7 @@ The priority queue is initialized with a class NodeInfoComparable
 that implements the Comparator interface.
 It is used by the priority queue to compare between the tags of each node info. 
 
-####Algorithm used:
+#### Algorithm used:
 
 **Dijkstra**
 
