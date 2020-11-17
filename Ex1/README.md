@@ -1,9 +1,8 @@
-# EXERCISE1
+# Exercise1
 
-#### Data structures used:
+## Data structures used:
 
-**HashMap**
-
+#### HashMap
 
 HashMap class implements Map interface.
 It is a Map based collection class that is used for storing key and value pairs.
@@ -20,7 +19,7 @@ WGraph_Algo: The Dijkstra algorithm returns a HashMap that maps
 between a son and its parent keys.
 It is used to trace back from the dest node to the src node.
 
-**ArrayList**
+#### ArrayList
 
 ArrayList class implements List interface, it is based on an Array data structure and it is a resizable array.
 It implements all optional list operations, and permits all elements, including null.
@@ -29,7 +28,7 @@ ArrayList is used in the following classes:
 
 WGraph_Algo: The ArrayList is used to return a node list of the shortest path.
 
-**PriorityQueue**
+#### PriorityQueue
 
 A priority queue is a special type of queue in which each element is associated with a priority
 and is served according to its priority.
@@ -44,9 +43,9 @@ The priority queue is initialized with a class NodeInfoComparable
 that implements the Comparator interface.
 It is used by the priority queue to compare between the tags of each node info. 
 
-#### Algorithm used:
+## Algorithm used:
 
-**Dijkstra**
+#### Dijkstra
 
 Dijkstra is an algorithm that is used to graph data or searching tree or traversing structures.
 Dijkstra's algorithm computes the cost of the shortest paths from a given starting node
