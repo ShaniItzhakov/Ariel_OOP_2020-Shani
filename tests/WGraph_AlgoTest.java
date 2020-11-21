@@ -160,6 +160,8 @@ class WGraph_AlgoTest {
 		graph.connect(7, 4, 9);
 		if (isConnected) {
 			graph.connect(9, 10, 7.3);
+			graph.connect(6, 1, 5);
+			graph.connect(3, 4, 5.5);
 		}	
 		return new WGraph_Algo(graph);
 	}
